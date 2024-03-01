@@ -12,9 +12,9 @@ git commit -m "comentario"
 git push -u origin master
 
 ----------ACTUALIZAR UN PROYECTO--------
-git status
-git add .
-git commit -m "comentario"
+git status                 (ver los cambios)
+git add .                   (agregar archivos)
+git commit -m "comentario"   
 git push
 
 ---------CREAR BRANCH-------
