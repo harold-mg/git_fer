@@ -16,3 +16,8 @@ git status
 git add .
 git commit -m "comentario"
 git push
+
+---------CREAR BRANCH-------
+git branch (ver la rama actual)
+git branch nombre_rama     (crear rama)
+git checkout nombre_rama   (moverse a la rama)
